@@ -2,9 +2,9 @@
 title: French
 subtitle: Optional Project Subtitle
 date: '2018-01-15'
-thumb_image: images/7_thumb.jpg
+thumb_image: images/study_7.jpg
 thumb_image_alt: A black headphones on a yeallow background
-image: images/7.jpg
+image: images/study_7.jpg
 image_alt: A black headphones on a yeallow background
 seo:
   title: French
@@ -20,7 +20,7 @@ seo:
       value: This is the project 7 description
       keyName: property
     - name: 'og:image'
-      value: images/7.jpg
+      value: images/study_7.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: This is the project 7 description
     - name: 'twitter:image'
-      value: images/7.jpg
+      value: images/study_7.jpg
       relativeUrl: true
 template: catnote
 ---

@@ -2,9 +2,9 @@
 title: Machine Learning
 subtitle: Optional Catnote Subtitle
 date: '2019-05-10'
-thumb_image: images/1_thumb.jpg
+thumb_image: images/study_1.jpg
 thumb_image_alt: Machine Learning and Deep Learning
-image: images/1.jpg
+image: images/study_1.jpg
 image_alt: Machine Learning and Deep Learning
 seo:
   title: Machine Learning
@@ -20,7 +20,7 @@ seo:
       value: This is the Catnote 1 description
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: images/study_1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: This is the Catnote 1 description
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: images/study_1.jpg
       relativeUrl: true
 template: catnote
 ---

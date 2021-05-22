@@ -2,9 +2,9 @@
 title: Probability
 subtitle: Optional catnote Subtitle
 date: '2019-04-08'
-thumb_image: images/3_thumb.jpg
+thumb_image: images/study_3.jpg
 thumb_image_alt: Probability and Statistics
-image: images/3.jpg
+image: images/study_3.jpg
 image_alt: Probability and Statistics
 seo:
   title: Probability
@@ -20,7 +20,7 @@ seo:
       value: This is the catnote 3 description
       keyName: property
     - name: 'og:image'
-      value: images/3.jpg
+      value: images/study_3.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: This is the catnote 3 description
     - name: 'twitter:image'
-      value: images/3.jpg
+      value: images/study_3.jpg
       relativeUrl: true
 template: catnote
 ---

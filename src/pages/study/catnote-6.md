@@ -2,9 +2,9 @@
 title: Programming
 subtitle: Optional catnote Subtitle
 date: '2019-01-05'
-thumb_image: images/5_thumb.jpg
+thumb_image: images/study_6.jpg
 thumb_image_alt: Programming
-image: images/6.jpg
+image: images/study_6.jpg
 image_alt: Programming
 seo:
   title: Programming
@@ -20,7 +20,7 @@ seo:
       value: This is the catnote 6 description
       keyName: property
     - name: 'og:image'
-      value: images/6.jpg
+      value: images/study_6.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: This is the catnote 6 description
     - name: 'twitter:image'
-      value: images/6.jpg
+      value: images/study_6.jpg
       relativeUrl: true
 template: catnote
 ---

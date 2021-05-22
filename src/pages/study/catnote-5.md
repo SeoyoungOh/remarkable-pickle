@@ -2,9 +2,9 @@
 title: Data Structure
 subtitle: Optional catnote Subtitle
 date: '2019-01-05'
-thumb_image: images/5_thumb.jpg
+thumb_image: images/study_5.jpg
 thumb_image_alt: Data Structure
-image: images/5.jpg
+image: images/study_5.jpg
 image_alt: Data Structure
 seo:
   title: Data Structure
@@ -20,7 +20,7 @@ seo:
       value: This is the catnote 5 description
       keyName: property
     - name: 'og:image'
-      value: images/5.jpg
+      value: images/study_5.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: This is the catnote 5 description
     - name: 'twitter:image'
-      value: images/5.jpg
+      value: images/study_5.jpg
       relativeUrl: true
 template: catnote
 ---

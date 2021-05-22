@@ -2,9 +2,9 @@
 title: Calculus
 subtitle: Optional catnote Subtitle
 date: '2019-02-26'
-thumb_image: images/4_thumb.jpg
+thumb_image: images/study_4.jpg
 thumb_image_alt: Calculus
-image: images/4.jpg
+image: images/study_4.jpg
 image_alt: Calculus
 seo:
   title: Calculus
@@ -20,7 +20,7 @@ seo:
       value: This is the catnote 4 description
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: images/study_4.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: This is the catnote 4 description
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: images/study_4.jpg
       relativeUrl: true
 template: catnote
 ---

@@ -95,7 +95,7 @@ seo:
       value: The preview of the Remarkable Pickle
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: images/preview_pickle.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -105,7 +105,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Remarkable Pickle
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: images/preview_pickle.jpg
       relativeUrl: true
 template: advanced
 ---
