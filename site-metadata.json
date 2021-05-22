@@ -2,7 +2,7 @@
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
-        "title": "Exto",
+        "title": "R.Pickle",
         "has_nav": true,
         "nav_links": [
             {
@@ -11,8 +11,18 @@
                 "style": "link"
             },
             {
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
                 "label": "Portfolio",
                 "url": "/portfolio/",
+                "style": "link"
+            },
+            {
+                "label": "Study",
+                "url": "/study/",
                 "style": "link"
             },
             {
@@ -23,11 +33,6 @@
             {
                 "label": "Style Guide",
                 "url": "/style-guide/",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about/",
                 "style": "link"
             },
             {
@@ -71,6 +76,6 @@
             }
         ]
     },
-    "title": "Stackbit Exto Theme",
+    "title": "Remarkable Pickle",
     "domain": "https://remarkable-pickle.netlify-93e38.app"
 }

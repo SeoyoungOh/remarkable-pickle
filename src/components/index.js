@@ -10,6 +10,7 @@ import SectionForm from './SectionForm';
 import SectionGrid from './SectionGrid';
 import SectionHero from './SectionHero';
 import SectionPortfolio from './SectionPortfolio';
+import SectionStudy from './SectionStudy';
 import SectionPosts from './SectionPosts';
 import SectionTestimonials from './SectionTestimonials';
 import Layout from './Layout';
@@ -27,6 +28,7 @@ export {
     SectionGrid,
     SectionHero,
     SectionPortfolio,
+    SectionStudy,
     SectionPosts,
     SectionTestimonials,
     Layout
@@ -45,6 +47,7 @@ export default {
     SectionGrid,
     SectionHero,
     SectionPortfolio,
+    SectionStudy,
     SectionPosts,
     SectionTestimonials,
     Layout

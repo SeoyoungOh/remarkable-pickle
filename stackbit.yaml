@@ -11,6 +11,7 @@ pageLayoutKey: template
 logicFields:
   - section_portfolio.projects_number
   - section_posts.posts_number
+  - section_study.catnotes_number
 models:
   config:
     type: config
@@ -149,6 +150,7 @@ models:
             - section_grid
             - section_hero
             - section_portfolio
+            - section_study
             - section_posts
             - section_testimonials
       - type: model
@@ -220,6 +222,36 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+  study:
+    type: page
+    urlPath: /study
+    label: Study
+    layout: study
+    file: study/index.md
+    hideContent: true
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page.
+        required: true
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The text shown just below the page title.
+      - type: enum
+        name: layout_style
+        label: Layout Style
+        description: The style of the portfolio layout.
+        options:
+          - mosaic
+          - tiles
+        default: mosaic
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
   page:
     type: page
     label: Page
@@ -245,6 +277,46 @@ models:
         name: image_alt
         label: Image Alt Text
         description: The alt text of the image.
+      - type: model
+        name: seo
+        models:
+          - stackbit_page_meta
+  catnote:
+    type: page
+    urlPath: '/study/{slug}'
+    label: Catnote
+    layout: catnote
+    folder: study
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the catnote
+        required: true
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The text shown just below the catnote title.
+      - type: date
+        name: date
+        label: Date
+        required: true
+      - type: image
+        name: thumb_image
+        label: Image (Study)
+        description: The image shown in the study page.
+      - type: string
+        name: thumb_image_alt
+        label: Image Alt Text (Study)
+        description: The alt text of the study page image.
+      - type: image
+        name: image
+        label: Image (Single Catnote)
+        description: The image shown in the single catnote.
+      - type: string
+        name: image_alt
+        label: Image Alt Text (Single Catnote)
+        description: The alt text of the single catnote image.
       - type: model
         name: seo
         models:
@@ -483,6 +555,37 @@ models:
       - type: string
         name: view_all_url
         label: All projects button URL
+        default: '#'
+  section_study:
+    type: object
+    label: Study Section
+    extends:
+      - section
+    fields:
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The subtitle of the section.
+      - type: enum
+        name: layout_style
+        label: Layout Style
+        description: The layout style of the catnotes section.
+        options:
+          - mosaic
+          - tiles
+        default: mosaic
+        required: true
+      - type: number
+        name: catnotes_number
+        label: Number of catnotes to display
+        required: true
+      - type: string
+        name: view_all_label
+        label: All catnotes button label
+        description: The text displayed inside the button.
+      - type: string
+        name: view_all_url
+        label: All catnotes button URL
         default: '#'
   section_posts:
     type: object
