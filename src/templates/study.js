@@ -17,7 +17,7 @@ export const query = graphql`
 
 export default class Study extends React.Component {
     render() {
-        let display_catnotes = _.orderBy(getPages(this.props.pageContext.pages, '/study'), 'frontmatter.date', 'desc');
+        let display_projects = _.orderBy(getPages(this.props.pageContext.pages, '/study'), 'frontmatter.date', 'desc');
         return (
             <Layout {...this.props}>
             <div className="inner outer">
@@ -27,17 +27,17 @@ export default class Study extends React.Component {
                 <p className="page-subtitle">{_.get(this.props, 'pageContext.frontmatter.subtitle', null)}</p>
                 )}
               </header>
-              <div className={'study-feed layout-' + _.get(this.props, 'pageContext.frontmatter.layout_style', null)}>
-                {_.map(display_catnotes, (post, post_idx) => (
-                <article key={post_idx} className="catnote">
-                  <Link to={withPrefix(_.get(post, 'url', null))} className="catnote-link">
+              <div className={'portfolio-feed layout-' + _.get(this.props, 'pageContext.frontmatter.layout_style', null)}>
+                {_.map(display_projects, (post, post_idx) => (
+                <article key={post_idx} className="project">
+                  <Link to={withPrefix(_.get(post, 'url', null))} className="project-link">
                     {_.get(post, 'frontmatter.thumb_image', null) && (
-                    <div className="catnote-thumbnail">
+                    <div className="project-thumbnail">
                       <img src={withPrefix(_.get(post, 'frontmatter.thumb_image', null))} alt={_.get(post, 'frontmatter.thumb_image_alt', null)} />
                     </div>
                     )}
-                    <header className="catnote-header">
-                      <h2 className="catnote-title">{_.get(post, 'frontmatter.title', null)}</h2>
+                    <header className="project-header">
+                      <h2 className="project-title">{_.get(post, 'frontmatter.title', null)}</h2>
                     </header>
                   </Link>
                 </article>

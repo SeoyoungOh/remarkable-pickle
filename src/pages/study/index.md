@@ -1,6 +1,6 @@
 ---
 title: Study
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: This is an optional subtitle for the study page.
 layout_style: mosaic
 seo:
   title: Study

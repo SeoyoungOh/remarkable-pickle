@@ -1,20 +1,20 @@
 ---
-title: Catnote Title 1
+title: Machine Learning
 subtitle: Optional Catnote Subtitle
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
-thumb_image_alt: 'Machine Learning/Deep Learning'
+thumb_image_alt: Machine Learning and Deep Learning
 image: images/1.jpg
-image_alt: 'Machine Learning/Deep Learning'
+image_alt: Machine Learning and Deep Learning
 seo:
-  title: Catnote Title 1
+  title: Machine Learning
   description: This is the Catnote 1 description
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Catnote Title 1
+      value: Machine Learning
       keyName: property
     - name: 'og:description'
       value: This is the Catnote 1 description

@@ -36,7 +36,7 @@ export default class SectionStudy extends React.Component {
                         )}
                         <span className="view-all-button">{_.get(section, 'view_all_label', null)}</span>
                       </Link>
-                      ) : 
+                      ) :
                       <Link to={withPrefix(_.get(post, 'url', null))} className="catnote-link">
                         {_.get(post, 'frontmatter.thumb_image', null) && (
                         <div className="catnote-thumbnail">

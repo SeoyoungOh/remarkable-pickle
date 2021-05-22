@@ -1,20 +1,20 @@
 ---
-title: Catnote Title 2
+title: Linear Algebra
 subtitle: Optional Catnote Subtitle
 date: '2019-05-10'
 thumb_image: images/2_thumb.jpg
-thumb_image_alt: 'Mathematics'
+thumb_image_alt: Linear Algebra
 image: images/2.jpg
-image_alt: 'Mathematics'
+image_alt: Linear Algebra
 seo:
-  title: Catnote Title 2
+  title: Linear Algebra
   description: This is the Catnote 2 description
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Catnote Title 2
+      value: Linear Algebra
       keyName: property
     - name: 'og:description'
       value: This is the Catnote 2 description
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Catnote Title 2
+      value: Linear Algebra
     - name: 'twitter:description'
       value: This is the Catnote 2 description
     - name: 'twitter:image'
