@@ -1,5 +1,5 @@
 ---
-title: Les noms
+title: Le conseil
 subtitle: This is a short page about us and our work.
 image: images/about.jpg
 image_alt: A man taking a picture
@@ -31,15 +31,8 @@ seo:
       relativeUrl: true
 template: page
 ---
-  
 
-# Le masculin et le féminin des noms
-+ [A1] le masculin et le féminin des professions
-
-# Le singulier et le pluriel des noms
-+ [A1] le singulier et le pluriel des noms
-
-# La nomalization de laphrase verbale
-+ [b1] la nomalization de laphrase verbale
++ [a1] le conseil
++ [b1] conseiller
 
 *Thank You for reading!*

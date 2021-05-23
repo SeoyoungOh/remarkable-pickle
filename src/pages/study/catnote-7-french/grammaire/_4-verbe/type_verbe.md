@@ -1,5 +1,5 @@
 ---
-title: Les noms
+title: Les types des verbes
 subtitle: This is a short page about us and our work.
 image: images/about.jpg
 image_alt: A man taking a picture
@@ -31,15 +31,17 @@ seo:
       relativeUrl: true
 template: page
 ---
+
+# Les groupes des verbes
+  + [a1] les verbes en -er au présent
+  + [a1] les verbes en -ir au présent
   
+# Les verbes pronominaux
+  + [a1] les verbes pronominaux au présent
 
-# Le masculin et le féminin des noms
-+ [A1] le masculin et le féminin des professions
+# Les verbes imersonnels
 
-# Le singulier et le pluriel des noms
-+ [A1] le singulier et le pluriel des noms
+# Les verbes auxiliaire et les verbes semi-auxiliaires
 
-# La nomalization de laphrase verbale
-+ [b1] la nomalization de laphrase verbale
 
 *Thank You for reading!*

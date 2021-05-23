@@ -1,5 +1,5 @@
 ---
-title: Les noms
+title: Les prépositions
 subtitle: This is a short page about us and our work.
 image: images/about.jpg
 image_alt: A man taking a picture
@@ -31,15 +31,14 @@ seo:
       relativeUrl: true
 template: page
 ---
+
+# Les prépositions de lieu
++ [a1] les prépositions devant les noms de villes et de pays
++ [a1] les prépositions de lieu (1)
++ [a1] les prépositions de lieu (2)
   
-
-# Le masculin et le féminin des noms
-+ [A1] le masculin et le féminin des professions
-
-# Le singulier et le pluriel des noms
-+ [A1] le singulier et le pluriel des noms
-
-# La nomalization de laphrase verbale
-+ [b1] la nomalization de laphrase verbale
+# Les verbes et adjectifs suivis de prépositions
++ [a2] les verbes à préposition
++ [b1] les verbes et adjectifs suivis de prépositions
 
 *Thank You for reading!*

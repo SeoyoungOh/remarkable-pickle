@@ -1,5 +1,5 @@
 ---
-title: Les noms
+title: L'interrogation
 subtitle: This is a short page about us and our work.
 image: images/about.jpg
 image_alt: A man taking a picture
@@ -31,15 +31,19 @@ seo:
       relativeUrl: true
 template: page
 ---
+
+# La fréquence
++ [a1] la fréquence
   
-
-# Le masculin et le féminin des noms
-+ [A1] le masculin et le féminin des professions
-
-# Le singulier et le pluriel des noms
-+ [A1] le singulier et le pluriel des noms
-
-# La nomalization de laphrase verbale
-+ [b1] la nomalization de laphrase verbale
+# Les indicateurs de temps
++ [a1] l'antériorité et la postériorité
++ [a1] les indicateurs de temps du passé et du futur
++ [a1] la durée, la continuation
++ [a1] les indicateurs de temps (rappel)
++ [a2] les indicateurs de temps
++ [a2] les succession dans le temps
++ [b1] les indicateurs de temps (1)
++ [b1] les indicateurs de temps (2)
++ [b1] les indicateurs de temps (3)
 
 *Thank You for reading!*

@@ -1,5 +1,5 @@
 ---
-title: Les noms
+title: Les adjectifs
 subtitle: This is a short page about us and our work.
 image: images/about.jpg
 image_alt: A man taking a picture
@@ -31,15 +31,22 @@ seo:
       relativeUrl: true
 template: page
 ---
-  
 
-# Le masculin et le féminin des noms
-+ [A1] le masculin et le féminin des professions
+# Les genre et le nombre des adjectifs
++ [a1] les adjectifs de nationalité (성수일치 이야기 안에 작성)
++ [a1] les genre et le nombre des adjectifs
 
-# Le singulier et le pluriel des noms
-+ [A1] le singulier et le pluriel des noms
+# La place des adjectifs
++ [a1] la place des adjectifs
++ [a2] la place de l'adjectif
++ [b1] la place de l'adjectfi
 
-# La nomalization de laphrase verbale
-+ [b1] la nomalization de laphrase verbale
+# Les adjectif indéfinis
++ [a2] les adjectif indéfinis
++ [b1] les indéfinis (la quantité)
+
+
+
+
 
 *Thank You for reading!*

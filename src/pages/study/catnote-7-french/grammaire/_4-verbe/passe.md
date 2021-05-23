@@ -1,5 +1,5 @@
 ---
-title: Les noms
+title: L'expression du passé
 subtitle: This is a short page about us and our work.
 image: images/about.jpg
 image_alt: A man taking a picture
@@ -31,15 +31,29 @@ seo:
       relativeUrl: true
 template: page
 ---
+
+# Le passé composé
+  + [a1] le passé composé (1)
+  + [a1] le passé composé (2)
+  + [a1] le passé composé des verbes pronominaux
+  + [a2] le passé composé
+  + [b1] l'accord des verbes pronominaux au passé composé
+
+# L'imparfait
+  + [a1] l'imparfait des verbes impersonnels
+  + [a2] l'imparfait
+
+# La comparaison : le passé composé VS l'imparfait
+  + [a1] les temps (rappel)
+  + [a2] le passé composé et l'imparfait dans le récit
+  + [b1] le passé composé et l'imparfait
+
+# Le plus-que-parfait
+  + [b1] le plus-que-parfiat
   
+# Le passé simple
+  + [b1] le passé simple
 
-# Le masculin et le féminin des noms
-+ [A1] le masculin et le féminin des professions
-
-# Le singulier et le pluriel des noms
-+ [A1] le singulier et le pluriel des noms
-
-# La nomalization de laphrase verbale
-+ [b1] la nomalization de laphrase verbale
+# Le passé antérieur
 
 *Thank You for reading!*

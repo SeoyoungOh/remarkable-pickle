@@ -1,5 +1,5 @@
 ---
-title: Les noms
+title: Les adverbes
 subtitle: This is a short page about us and our work.
 image: images/about.jpg
 image_alt: A man taking a picture
@@ -31,15 +31,14 @@ seo:
       relativeUrl: true
 template: page
 ---
-  
+# La place des adverbes
++ [a1] l'intentié
 
-# Le masculin et le féminin des noms
-+ [A1] le masculin et le féminin des professions
+# Les adverbe de manière en *-ment*
++ [a2] l'adverbe en -ment
++ [b1] les adverbes de manière en -ment
 
-# Le singulier et le pluriel des noms
-+ [A1] le singulier et le pluriel des noms
 
-# La nomalization de laphrase verbale
-+ [b1] la nomalization de laphrase verbale
+
 
 *Thank You for reading!*
